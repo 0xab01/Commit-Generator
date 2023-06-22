@@ -12,8 +12,12 @@ To use Commit Generator, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/your-username/commit-generator.git`
 2. Install dependencies: `npm install`
-3. Configure the tool: Update the desired parameters in the `index.js` file, such as the number of commits and the date range.
-4. Run the tool: `node index.js`
+     - npm i jsonfile
+     - npm i moment
+     - npm i simple-git
+       
+4. Configure the tool: Update the desired parameters in the `index.js` file, such as the number of commits and the date range.
+5. Run the tool: `node index.js`
 
 ## Usage
 
