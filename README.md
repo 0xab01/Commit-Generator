@@ -12,6 +12,7 @@ To use Commit Generator, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/Azanul-Rana/commit-generator.git`
 2. Install dependencies: `npm install`
+     - npm init
      - npm i jsonfile
      - npm i moment
      - npm i simple-git
