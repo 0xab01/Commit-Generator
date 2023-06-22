@@ -1,0 +1,19 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "doy yorw rok",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "azanul",
+  "license": "ISC",
+  "dependencies": {
+    "jsonfile": "^6.1.0",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.4",
+    "random": "^4.1.0",
+    "simple-git": "^3.19.0",
+    "stack": "^0.1.0"
+  }
+}
