@@ -10,7 +10,7 @@ Commit Generator is a powerful tool designed to generate a large number of commi
 
 To use Commit Generator, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/commit-generator.git`
+1. Clone the repository: `git clone https://github.com/Azanul-Rana/commit-generator.git`
 2. Install dependencies: `npm install`
      - npm i jsonfile
      - npm i moment
